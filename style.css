@@ -8,6 +8,22 @@
           min-width: 500px;
      background-color: #e0eeee;
  }
+
+ p{
+     font-size:12px;
+     margin-left:2em;
+     margin-right: 1em;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
+ ul,ol
+ {
+   font-size:12px;
+   margin-right: 1em;
+   margin-top:10px;
+   margin-bottom: 10;
+ }
  
  .profileBody{
      display: inline-block;
